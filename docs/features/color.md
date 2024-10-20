@@ -6,7 +6,7 @@ Met het `/color` commando kan je alle kleuren aanpassen van de speler.
 |--|--|--| 
 | /color add \<speler> \<Chat/Level/Name/Prefix> \<kleur> | Voeg de kleur toe aan een speler | openminetopia.color.add |
 | /color create \<identifier> \<display_name> \<prefix_color> | Maak een kleur aan | openminetopia.color.create |
-| /color remove \<speler> < \<Chat/Level/Name/Prefix> \<kleur> | Verwijder een kleur | openminetopia.color.remove |
+| /color remove \<speler> \<Chat/Level/Name/Prefix> \<kleur> | Verwijder een kleur | openminetopia.color.remove |
 | /color chatcolor | Open het chatcolor menu | -
 | /color levelcolor | Open het levelcolor menu | -
 | /color namecolor | Open het namecolor menu | -
