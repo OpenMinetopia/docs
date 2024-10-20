@@ -32,6 +32,9 @@ module.exports = {
 				collapsable: false,
 				children: [
 					'/features/banking',
+					'/features/chat',
+					'/features/color',
+					'/features/detectiepoortjes',
                     '/features/levels'
 				]
 			}
