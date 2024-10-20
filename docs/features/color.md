@@ -14,6 +14,7 @@ Met het `/color` commando kan je alle kleuren aanpassen van de speler.
 
 ### Config
 Je kan eenvoudig kleuren toevoegen aan via de config.
+Of via `/color create`
 
     colors:
       red:
