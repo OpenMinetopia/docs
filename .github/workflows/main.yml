@@ -1,0 +1,28 @@
+name: Node CI
+
+on: [push]
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+    - name: Checkout
+      uses: actions/checkout@master
+    - uses: actions/setup-node@v4
+      with:
+        node-version: 16
+        
+    - name: Install dependencies
+      run: yarn install
+      
+    - name: Build
+      run: yarn vuepress build docs
+      
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v4
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./docs/.vuepress/dist
+        cname: wiki.openminetopia.nl
