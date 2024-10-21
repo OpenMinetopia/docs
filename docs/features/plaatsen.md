@@ -1,11 +1,11 @@
 # Plaatsen
 Je kan verschillende plekken instellen voor een ander scorebord en andere kleuren.
 
-### Werelden
+## Werelden
 Om OpenMinetopia aan te zetten in een wereld moet je eerst een wereld selecteren.
 Gebruik dan het commando `/mtwereld create <WereldNaam>`.
 
-#### Commands
+## Commands
 
 |Command| Omschrijving | Permissie |
 |--|--|--|
@@ -16,10 +16,10 @@ Gebruik dan het commando `/mtwereld create <WereldNaam>`.
 | /mtwereld settemperature \<WereldNaam> \<Tempratuur> | Verander hoe warm/koud het is | openminetopia.world.settemperature
 | /mtwereld setloadingname \<WereldNaam> \<Naam> | Verander de naam voor in de data | openminetopia.world.setloadingname
 
-### Steden
+## Steden
 Je kan ook in een wereld een stad aanmaken.
 
-### Commands
+## Commands
 |Command| Omschrijving | Permissie |
 |--|--|--|
 | /mtstad create \<StadNaam> | Voeg een wereld toe aan de plugin | openminetopia.city.create

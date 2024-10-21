@@ -39,6 +39,14 @@ module.exports = {
 					'/features/plaatsen',
                     '/features/levels'
 				]
+			},
+			{
+				title: 'Placeholders',
+				collapsable: false,
+				children: [
+					'/placeholders/builtin',
+					'/placeholders/placeholderapi'
+				]
 			}
 		]
 	}

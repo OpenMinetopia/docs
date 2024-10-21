@@ -4,7 +4,8 @@
 Als je het commando `/rekening create <Company/Goverment/Savings> <naam>` uitvoert word er een rekening aangemaakt. Je kan ook makkelijk een speler toevoegen aan je rekening met `/rekening adduser <Speler> <RekeningNaam> <Admin/Deposit/Withdraw>`
 
 **Alle commands kan je ook met /account gebruiken.
-### Commands
+
+## Commands
 |Command|Omschrijving  |Permissie | 
 |--|--|--|
 | /rekening create <Company/Goverment/Savings> \<naam> |Maak een rekening aan|openminetopia.banking.create  |
@@ -16,7 +17,7 @@ Als je het commando `/rekening create <Company/Goverment/Savings> <naam>` uitvoe
 | /rekening info \<RekeningNaam> | Laat informatie van de rekening zien | openminetopia.banking.info |
 | /rekening open | Open de pinautomaat | openminetopia.banking.open |
 
-### Config
+## Config
 Alle functies zijn aanpasbaar in de banking.yml file.
 
     banking:

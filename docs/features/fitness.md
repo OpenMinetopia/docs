@@ -2,11 +2,11 @@
 Fitheid is een complex systeem voor de virtuele gezondheid van de speler.
 Hier onder vindt je de basis informatie over hoe fitheid werkt.
 
-### Hoe werkt fitheid?
+## Hoe werkt fitheid?
 Fitheid werkt met een soort punten systeem.
 Je moet letten op je voeding en veel bewegen op die manier krijg je de punten.
 
-### Commands
+## Commands
 
 | Command | Omschrijving | Permissie |
 |--|--|--|
@@ -14,7 +14,7 @@ Je moet letten op je voeding en veel bewegen op die manier krijg je de punten.
 
 Als je de fitheid van een speler aan te passen moet je nu de speler een booster geven.
  
-### Config
+## Config
 Je kan alle settings van het fitheid gemakkelijk aan te passen in de config.
 
     fitness:

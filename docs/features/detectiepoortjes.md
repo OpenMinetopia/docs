@@ -9,7 +9,7 @@ Als jij zonder illegale items over de pressure plate loopt worden de blokken gro
 Als je met illegale items over de pressure plate loopt worden de blokken rood.
 ![Gefaalde Poortjes](https://media.nijhuissven.nl/saZa6/SAnayebe24.png/raw)
 
-### Config
+## Config
 
     detection-gate:
       enabled: true

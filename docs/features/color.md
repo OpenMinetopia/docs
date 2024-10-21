@@ -1,7 +1,7 @@
 # Color
 Met het `/color` commando kan je alle kleuren aanpassen van de speler.
 
-### Commands
+## Commands
 | Commando | Omschrijving | Permissie | 
 |--|--|--| 
 | /color add \<speler> \<Chat/Level/Name/Prefix> \<kleur> | Voeg de kleur toe aan een speler | openminetopia.color.add |
@@ -12,7 +12,7 @@ Met het `/color` commando kan je alle kleuren aanpassen van de speler.
 | /color namecolor | Open het namecolor menu | -
 | /color prefixcolor | Open het prefixcolor menu | -
 
-### Config
+## Config
 Je kan eenvoudig kleuren toevoegen aan via de config.
 Of via `/color create`
 
