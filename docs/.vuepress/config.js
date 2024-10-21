@@ -35,6 +35,8 @@ module.exports = {
 					'/features/chat',
 					'/features/color',
 					'/features/detectiepoortjes',
+					'/features/fitness',
+					'/features/plaatsen',
                     '/features/levels'
 				]
 			}
